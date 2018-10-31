@@ -23,7 +23,7 @@ import org.apache.hadoop.mapreduce.Mapper;
  * Long ——————> LongWritable
  * String ——————> Text
  * Integer ——————> IntegerWritable
- * Null ——————> NullWritable   
+ * Null ——————> NullWritable
  *
  * @author  ManMin
  * @date    2018年2月21日 下午7:16:12
