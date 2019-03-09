@@ -1,0 +1,12 @@
+package main.resources;
+
+/**
+ * kafka 配置类
+ * 
+ * @author ManMin
+ * @date   2018年11月4日 下午3:48:48
+ *
+ */
+public class KafkaConfig {
+
+}
